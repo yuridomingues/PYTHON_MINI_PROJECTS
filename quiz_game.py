@@ -51,4 +51,3 @@ else:
     print("Incorrect!")
 
 print("That's " + str((SCORE / 4) * 100) + "% correct!")
-print("Thanks for playing!")

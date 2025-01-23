@@ -9,7 +9,6 @@ Questions:
 2. What does GPU stand for?
 3. What does RAM stand for?
 4. What does PSU stand for?
-The game ends with a thank you message.
 """
 
 print("Welcome to my quiz!")
